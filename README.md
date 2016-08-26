@@ -1,3 +1,3 @@
 # learngit
-on branch master
+on branch dev
 
